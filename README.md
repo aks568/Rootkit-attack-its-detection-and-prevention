@@ -1,0 +1,2 @@
+# Rootkit-attack-its-detection-and-prevention
+Rootkit is one of the most important issues of network communication systems, which is related to the security and privacy of Internet users. Because of the existence of the back door of the operating system, a hacker can use rootkit to attack and invade other people’s computers and thus he can capture passwords and message traffic to and from these computers easily. In this project, we try to assess the vulnerabilities of the rootkit by installing it in our operating system and try to detect it.
